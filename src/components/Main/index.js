@@ -1,7 +1,7 @@
+const test = <>Hi</>
+
 function Main () {
-    return (
-        'Hi'
-    );
+    return (test);
 }
 
 export default Main;
