@@ -1,5 +1,7 @@
 import logo from './../../logo.svg';
-import *as math from './../../utils/math';
+import * as Math from './../../utils/math';
+
+console.log(Math.multiplication(2, 3));
 
 function Header() {
   return (
